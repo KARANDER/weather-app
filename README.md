@@ -1,4 +1,5 @@
 # Weather App ⛅☔❄
+![](img/clear.png)
 
 A simple and elegant weather app built with HTML, CSS, and JavaScript. This app fetches real-time weather data using the OpenWeatherMap API and displays the current weather conditions for any city.
 
@@ -13,7 +14,7 @@ A simple and elegant weather app built with HTML, CSS, and JavaScript. This app 
 - Clean and responsive UI.
 
 ## Demo 🌆
-![Weather App Preview](img/preview.png)
+![Weather App Preview]
 
 ## Installation Steps 🛠️
 
