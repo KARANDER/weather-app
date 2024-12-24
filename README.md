@@ -13,18 +13,19 @@ A simple and elegant weather app built with HTML, CSS, and JavaScript. This app 
 - Error handling for invalid city names.
 - Clean and responsive UI.
 
-## Demo 🌆
-![Weather App Preview]
-
 ## Installation Steps 🛠️
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+- Clone the repository
+
+- Create an account on OpenWeatherMap and generate your API key.
+
+- Open the script section of the index.html file and replace the apiKey value with your generated API key:
+ ```javascript
+   const apiKey = "your_api_key_here";
    ```
 
-2. Open `index.html` in your favorite browser.
+
+- Open index.html in your favorite browser.
 
 ## Usage 🌐
 
@@ -41,10 +42,12 @@ A simple and elegant weather app built with HTML, CSS, and JavaScript. This app 
 ## Screenshots 📸
 
 ### Main Interface:
-![Main Interface](img/screenshot.png)
+![Main Interface](img/demo1.png)
+![Main Interface](img/demo2.png)
+
 
 ### Error Message:
-![Error Message](img/error.png)
+![Error Message](img/demo3.png)
 
 ## Future Enhancements 📈
 - Add support for multiple units (Celsius, Fahrenheit).
